@@ -1,0 +1,100 @@
+#header {
+    position: fixed;
+    top: 0;
+    left: 0; /* Ensures it starts from the very left */
+    width: 100vw; /* Makes it occupy the full screen width */
+    background-color: #4c4c74;
+    height: 140px;
+    border-radius: 10px 10px 0 0;
+}
+
+.contact-name{
+    font-size: 25px;
+    margin-right: 73vw;
+    margin-top: 70px;
+}
+
+#profile-image{
+    width: 80px;
+    border-radius: 50%;
+    position: fixed;
+    top: 30px;
+    right: 90vw;
+    border: 2px solid rgba(124, 224, 149, 0.548);
+}
+
+#input-mensage-text {
+    outline: none;
+    background-color: #ffffff;
+    color: black;
+    border: none;
+    height: 30px;
+    width: 500px;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+#submit-btn{
+    background-color: #0466c2;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 50vw;
+}
+
+#submit-btn:hover{
+    background-color: #0557a3;
+    
+}
+#footer{
+    display: inline;
+    position: fixed;
+    top: 400px;
+    left: 0;
+    background-color: #7b70b8;
+    height: 80px;
+    width: 100vw;
+    margin-top: 200px;
+    border-radius: 0 0 10px 10px;
+    gap: 10px;
+}
+.message-container {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.message-container.user {
+  justify-content: flex-end;
+}
+
+.message-container.bot {
+  justify-content: flex-start;
+}
+
+.message-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.message-text {
+  padding: 10px;
+  background: #ddd;
+  border-radius: 10px;
+  max-width: 60%;
+}
+
+.user .message-text {
+  background: #0084ff;
+  color: white;
+}
+
+.bot .message-text {
+  background: #e5e5e5;
+  color: black;
+}
