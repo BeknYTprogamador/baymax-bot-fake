@@ -34,7 +34,7 @@ Project (pasta base)
 ## 🔗 Melhorias futuras
 
 <ul>
-  <li>Adicionar suporte a bancos de dadosexternos para respostas dinâmicas.</li>
+  <li>Adicionar suporte a bancos de dados externos para respostas dinâmicas.</li>
   <li>Melhorar a experiência de usuário com animações e transições.</li>
   <li>Implementação de um sistema de aprendizado de IA para interações mais naturais.</li>
 
