@@ -5,9 +5,9 @@
     "como esta o tempo hoje": "Confira a previsão do tempo <a href='https://www.climatempo.com.br/' target='_blank'>clicando aqui</a>!",
     "quem criou você": "Originalmente, fui criado no filme *Big Hero 6* (no Brasil, *Operação Big Hero*). Mas este software foi desenvolvido por Bekn com React.js e estilizado em CSS por Vinícius da Silva Cardoso. Veja mais no <a href='' target='_blank'>Github</a>!",
     "qual é sua função": "Minha função é responder perguntas e te ajudar da melhor forma possível!",
-    "qual_e_a_capital_do_brasil": "A capital do Brasil é Brasília!",
-    "me_conte_uma_curiosidade": "Sabia que um polvo tem três corações? E quando fica assustado, seu sangue fica azul!",
-    "voce_gosta_de_musica": "Eu não posso ouvir música, mas posso sugerir algumas! Qual seu estilo favorito?",
+    "qual é a capital do brasil": "A capital do Brasil é Brasília!",
+    "me conte uma curiosidade": "Sabia que um polvo tem três corações? E quando fica assustado, seu sangue fica azul!",
+    "voce gosta de música": "Eu não posso ouvir música, mas posso sugerir algumas! Qual seu estilo favorito?",
     "como posso melhorar minha saúde": "Posso te ajudar a entender melhores hábitos! Você está buscando dicas sobre alimentação, exercício ou descanso?",
-    "preciso_de_ajuda_medica": "Se estiver sentindo algo incomum ou precisar de assistência médica, recomendo procurar um profissional de saúde imediatamente."
+    "preciso de ajuda medica": "Se estiver sentindo algo incomum ou precisar de assistência médica, recomendo procurar um profissional de saúde imediatamente."
 }
